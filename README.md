@@ -6,6 +6,7 @@
 
 ## Título del Proyecto
 "Aplicación Demostrativa de la Trayectoria Parabólica Basada en las Leyes de Newton para Optimizar Resultados"
+ ![Vista del Aplicativo](img/Imagen2.png)
 
 ## Introducción
 ### 1.1 Descripción del Problema
