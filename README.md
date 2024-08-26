@@ -90,4 +90,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulte el archiv
 
 ## Contacto
 Para preguntas o comentarios, puede contactar a:
-- [Nombre del Autor](mailto:diegoalonso970@outlook.com)
+- [Gatorrante](mailto:diegoalonso970@outlook.com)
