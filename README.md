@@ -4,8 +4,7 @@
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/)
 [![JFreeChart](https://img.shields.io/badge/JFreeChart-0052CC?style=for-the-badge&logo=apache&logoColor=white)](http://www.jfree.org/jfreechart/)
 
-## Título del Proyecto
-"Aplicación Demostrativa de la Trayectoria Parabólica Basada en las Leyes de Newton para Optimizar Resultados"
+## "Aplicación Demostrativa de la Trayectoria Parabólica Basada en las Leyes de Newton para Optimizar Resultados"
  ![Vista del Aplicativo](img/Imagen2.png)
 
 ## Introducción
